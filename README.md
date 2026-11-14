@@ -67,7 +67,7 @@ se agregan a `Registros`.
 
 | IntervaloEjecucion | Unidad | Activo |
 | --- | --- | --- |
-| 1 | Horas | SI |
+| 5 | Minutos | SI |
 
 `Unidad` acepta `Minutos` u `Horas`. Para desactivar la generación automática,
 usa `NO` en `Activo`.
